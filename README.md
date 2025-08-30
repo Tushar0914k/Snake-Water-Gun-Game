@@ -1,7 +1,7 @@
 # Snake Water Gun Game 🎮
 
 ## Introduction
-My First Python Project
+My First Python Project , 
 This is a simple game  **Python-based Snake Water Gun game** where the player competes against the computer.  
 It's a fun command-line game inspired by the classic "Rock Paper Scissors" but with a twist:  
 - **Snake** drinks Water 🐍💧  
