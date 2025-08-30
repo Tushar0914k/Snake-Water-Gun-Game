@@ -35,7 +35,7 @@ The game randomly selects the computer's choice and checks who wins each round.
 
 ---
 # Clone the repository
-git clone https://github.com/<your-username>/Snake-Water-Gun-Game.git
+git clone https://github.com/<Tushar Poojari>/Snake-Water-Gun-Game.git
 
 # Navigate into the folder
 cd Snake-Water-Gun-Game
@@ -50,7 +50,7 @@ Snake-Water-Gun-Game/
 ├── main.py      # Game logic
 └── README.md    # Documentation
 
-
+Output Example:-
 Enter your choice (s for Snake, w for Water, g for Gun): s
 Computer chose: g
 You Win! 🎉
